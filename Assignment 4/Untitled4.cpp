@@ -15,6 +15,4 @@ int main(){
 		
 	}while(b+c>a&&a+c>b&&a+b>c);
 	
-	return 0;
-	
 }
