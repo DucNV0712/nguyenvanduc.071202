@@ -16,6 +16,6 @@ int main()
             }
         }
         if (count == 0 && S > 1)
-            printf("%d-",S);
+            printf("%d\n",S);
     }
 }
